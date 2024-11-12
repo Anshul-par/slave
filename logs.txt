@@ -1,0 +1,8 @@
+[2024-11-12T08:47:06.756Z] Watching for file changes in /home/ansh0712/slave...
+[2024-11-12T08:51:28.577Z] New file added: /home/ansh0712/slave/price_map_2024-11-12_1.json
+[2024-11-12T08:51:38.685Z] Error uploading to S3: getaddrinfo EAI_AGAIN sabji-mandi.sgp1.digitaloceanspaces.com
+[2024-11-12T08:51:38.833Z] Webhook called successfully.
+[2024-11-12T09:08:21.859Z] Watching for file changes in /home/ansh0712/slave...
+[2024-11-12T09:12:22.371Z] New file added: /home/ansh0712/slave/price_map_2024-11-12_1.json
+[2024-11-12T09:12:25.186Z] File uploaded to S3: price_map_2024-11-12_1.json
+[2024-11-12T09:12:27.325Z] Webhook called successfully.
